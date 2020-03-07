@@ -1,0 +1,6 @@
+@import url(./__title/section__title.css);
+@import url(./__subtitle/section__subtitle.css);
+@import url(./table/table.css);
+@import url(./table/__cell/table__cell.css);
+@import url(./table/__cell/__heading/table__heading.css);
+@import url(./table/__cell/__text/table__text.css);

@@ -1,0 +1,20 @@
+/*ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента*/
+.header__square-pic {
+    height: 568px;
+    width: 568px;
+    position: absolute;
+    top: 64px;
+    right: 0;
+    background-color: #2F80ED;
+    transform: rotate(-15deg);
+    animation: rotation 20s linear infinite;
+}
+
+@keyframes rotation {
+    from { 
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
