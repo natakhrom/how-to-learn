@@ -1,3 +1,5 @@
+@import url(../__column-links/__column-link/footer__column-link.css);
+
 .footer__column-links {
     list-style: none;
     padding-inline-start: 0;

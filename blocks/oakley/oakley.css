@@ -1,12 +1,7 @@
-@import url(../description/two-columns/two-columns.css);
-@import url(../description/two-columns/__brief/two-columns__brief.css);
-@import url(../description/two-columns/__main-text/two-columns__main-text.css);
-@import url(../description/two-columns/__paragraph/two-columns__paragraph.css);
-
 .oakley {
     background-color: #F2F2F2; 
     position: relative;
-    padding-top: 160px;
+    padding-top: 60px;
     padding-bottom: 80px;
     z-index: -1;
 }

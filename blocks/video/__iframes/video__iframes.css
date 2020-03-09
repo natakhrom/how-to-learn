@@ -1,10 +1,8 @@
+@import url(./__iframe/video__iframe.css);
+
 .video__iframes {
     display: flex;
     justify-content: center;
     top: 50px;
     position: relative;
-}
-
-.video__iframe:first-of-type {
-    margin-right: 20px;
 }
