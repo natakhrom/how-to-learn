@@ -1,8 +1,14 @@
-@import url(./table__cell/table__cell.css);
+@import url(./__cell/table__cell.css);
+@import url(./__heading/table__heading.css);
+@import url(./__text/table__text.css);
+@import url(./_theme/_dark/table_theme_dark.css);
+@import url(./_theme/_dark/__cell_theme_dark/table__cell_theme_dark.css);
+@import url(./_theme/_dark/__text_theme_dark/table__text_theme_dark.css);
+
 
 .table {
     max-width: 1100px; 
-    margin: 0 auto 100px;
+    margin: 0 auto;
     display: flex;
     flex-wrap: wrap; 
     justify-content: space-between;

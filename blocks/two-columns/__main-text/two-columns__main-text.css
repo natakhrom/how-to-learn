@@ -1,6 +1,6 @@
 .two-columns__main-text {
     flex-wrap: wrap;
-    max-width: 80%;
+    width: 80%;
     min-width: 784px;
     line-height: 34px;
     font-size: 24px;

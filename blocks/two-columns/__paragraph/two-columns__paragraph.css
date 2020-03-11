@@ -2,3 +2,7 @@
     margin-top: 0;
     margin-bottom: 30px;
 }
+
+.two-columns__paragraph:nth-of-type(3n) {
+    margin-bottom: 0;
+}

@@ -1,9 +1,0 @@
-@import url(./__text_theme_dark/table__text_theme_dark.css);
-
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-    width: 200px;
-    color: white;
-    margin-top: 80px;
-    z-index: 1;
-}
