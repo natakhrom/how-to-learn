@@ -1,4 +1,5 @@
 .footer__column-links {
     list-style: none;
     padding-inline-start: 0;
+    margin: 0 auto 16px;
 }
