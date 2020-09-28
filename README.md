@@ -5,3 +5,5 @@
 HTML, CSS.
 ## Планы по доработке
 В будущем доработать ссылки, чтобы они были рабочими и переходили на сайт.
+## Ссылка на работу на gh-pages
+https://natakhrom.github.io/how-to-learn/index.html
